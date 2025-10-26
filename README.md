@@ -20,12 +20,6 @@ This project analyzes customer purchasing behavior using a real-world dataset fr
 - Dashboard creation and storytelling through visuals
 - Quick learning of Power BI
 
-## Dashboard Preview
-*(Add screenshots of your dashboard here)*
-
-## Dataset
-Kaggle dataset – [link if allowed]
-
 ## Skills Highlighted
 Python, pandas, MySQL, Power BI, Data Cleaning, Data Visualization, Customer Analysis
 
